@@ -28,6 +28,7 @@ Acest registru mapează fizic fișierele de guvernanță curente, hash-urile lor
 | **EV-005** | `AI-000_Master_Inventory.md` | *Calculated on next push* | *Pending Anchor* | Verified |
 | **EV-006** | **ADI Canonical Framework Manifest v1.0** | `31aa7a564ad93f21752e6c8d1b31f105688156182cfb1bcd6fb65ef1c756bc36` | `ai-delivery-infrastructure_canonical_txt.ots` | **Secured & Anchored** |
 | **EV-007** | **ADI Manifest Blueprint Hash** | `82c79d0e82e678cdbc4f3d3990f73a7ac5f3452ca02706f99779ff2c8cd1df30` | `ai-delivery-infrastructure_canonical_txt.ots` | **Secured & Anchored** |
+| **EV-008** | `od_firme.csv` (MF/ANAF Raw Data Snapshot) | `0716ca58759f65f4760259efe71e99eecf5d22d7471ce4ef7107b49a86c0a077` | `od_firme.csv.ots` | **Secured & Anchored** |
 
 ---
 
