@@ -1,6 +1,6 @@
 # AI-000 — Master AI Inventory
 
-Status: DRAFT  
+Status: BASELINE 
 Repository: aiventure-governance-os  
 Rule: Do not rename existing IDs. Do not invent missing IDs.
 
